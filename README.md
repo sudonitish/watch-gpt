@@ -1,8 +1,20 @@
-# React + Vite
+# Watch GPT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite application for educational purposes.
 
-Currently, two official plugins are available:
+## Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+npm run dev
+```
+
+## License
+
+This project is licensed under the Educational Community License, Version 2.0 (ECL-2.0) - see the [LICENSE](LICENSE) file for details.
+
+### Key License Points:
+
+- Free for educational and non-commercial use only
+- Redistributions must retain the copyright and license
+- No warranty is provided
